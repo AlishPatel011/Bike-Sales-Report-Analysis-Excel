@@ -1,7 +1,7 @@
 # 🛍️ Bike-Sales - Customer Purchase Analytics
 
 This project analyzes customer behavior and purchasing patterns using Excel tools like PivotTables, PivotCharts, and formulas. The goal is to gain insights from customer gender, income, age group, and product preferences.
-![Dashboard](Assets/dashboard-cover.png)
+![Dashboard](dashboard-cover.png)
 
 ---
 
